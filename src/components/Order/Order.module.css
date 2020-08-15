@@ -1,0 +1,13 @@
+.Order {
+    width: 80%;
+    background-color: #e3e7e8;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.OrderScreen {
+    text-align: center;
+}
